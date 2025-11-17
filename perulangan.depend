@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1763419357 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\five.cpp
+	"five.h"
+	<iostream>
+	<conio.h>
+
+1763418320 c:\users\buatm\onedrive\documents\cpp\perulangan\include\five.h
+
+1763419192 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\four.cpp
+	"four.h"
+	<iostream>
+	<conio.h>
+
+1763418306 c:\users\buatm\onedrive\documents\cpp\perulangan\include\four.h
+
+1763420344 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\nine.cpp
+	"nine.h"
+	<iostream>
+	<conio.h>
+
+1763418365 c:\users\buatm\onedrive\documents\cpp\perulangan\include\nine.h
+
+1763418914 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\one.cpp
+	"one.h"
+	<iostream>
+	<conio.h>
+
+1763418238 c:\users\buatm\onedrive\documents\cpp\perulangan\include\one.h
+
+1763419541 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\seven.cpp
+	"seven.h"
+	<iostream>
+	<conio.h>
+
+1763418339 c:\users\buatm\onedrive\documents\cpp\perulangan\include\seven.h
+
+1763419396 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\six.cpp
+	"six.h"
+	<iostream>
+	<conio.h>
+
+1763418328 c:\users\buatm\onedrive\documents\cpp\perulangan\include\six.h
+
+1763418692 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\ten.cpp
+	"ten.h"
+	<iostream>
+	<conio.h>
+
+1763418373 c:\users\buatm\onedrive\documents\cpp\perulangan\include\ten.h
+
+1763419118 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\three.cpp
+	"three.h"
+	<iostream>
+	<conio.h>
+
+1763418286 c:\users\buatm\onedrive\documents\cpp\perulangan\include\three.h
+
+1763418992 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\two.cpp
+	"two.h"
+	<iostream>
+	<conio.h>
+
+1763418259 c:\users\buatm\onedrive\documents\cpp\perulangan\include\two.h
+
+1763419952 source:c:\users\buatm\onedrive\documents\cpp\perulangan\src\eight.cpp
+	<iostream>
+	<conio.h>
+	"eight.h"
+
+1763418357 c:\users\buatm\onedrive\documents\cpp\perulangan\include\eight.h
+
+1763420615 source:c:\users\buatm\onedrive\documents\cpp\perulangan\main.cpp
+	<iostream>
+	<conio.h>
+	<one.h>
+	<two.h>
+	<three.h>
+	<four.h>
+	<five.h>
+	<six.h>
+	<seven.h>
+	<eight.h>
+	<nine.h>
+	<ten.h>
+

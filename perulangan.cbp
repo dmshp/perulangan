@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="perulangan" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/perulangan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/perulangan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/eight.h" />
+		<Unit filename="include/five.h" />
+		<Unit filename="include/four.h" />
+		<Unit filename="include/nine.h" />
+		<Unit filename="include/one.h" />
+		<Unit filename="include/seven.h" />
+		<Unit filename="include/six.h" />
+		<Unit filename="include/ten.h" />
+		<Unit filename="include/three.h" />
+		<Unit filename="include/two.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/eight.cpp" />
+		<Unit filename="src/five.cpp" />
+		<Unit filename="src/four.cpp" />
+		<Unit filename="src/nine.cpp" />
+		<Unit filename="src/one.cpp" />
+		<Unit filename="src/seven.cpp" />
+		<Unit filename="src/six.cpp" />
+		<Unit filename="src/ten.cpp" />
+		<Unit filename="src/three.cpp" />
+		<Unit filename="src/two.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
